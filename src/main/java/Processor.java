@@ -1,4 +1,4 @@
-class Professor{
+class Processor{
 
     private String model;
     private double speedGHz;

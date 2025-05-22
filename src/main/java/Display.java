@@ -1,4 +1,5 @@
 class Display{
+    
     private double sizeInches;
     private String resolution;
 

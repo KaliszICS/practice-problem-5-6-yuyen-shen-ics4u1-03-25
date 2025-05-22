@@ -21,6 +21,6 @@ class Battery{
     }
 
     public String toString(){
-        return "Battery:" + this.capacityMAh + " mAh, Charged:" + this.isCharged;
+        return "Battery: " + this.capacityMAh + " mAh, Charged: " + this.isCharged;
     } 
 }
